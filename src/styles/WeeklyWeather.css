@@ -1,0 +1,7 @@
+.weather-container {
+  display: inline-block;
+  justify-content: center;
+  margin: 45px;
+  height: auto;
+  width: 70px;
+}

@@ -1,0 +1,39 @@
+.card {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  margin-right: 2%;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+.date-container {
+  margin-top: 10px;
+}
+
+.date {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.temp-container {
+  margin-top: 10px;
+}
+
+.min-max {
+  font-size: 16px;
+}
+
+button {
+  border-radius: 8px;
+  width: 130px;
+}
